@@ -1,4 +1,4 @@
 ## Hi there 👋,I'm Akira Yu!
 **Smart Contract / Blockchain Engineer | DeFi Protocol Analysis**
 
-### 🏗️ Technical Ecosystem & Research Domains
+### 🏗️ Technical Focus & Engineering Domains
