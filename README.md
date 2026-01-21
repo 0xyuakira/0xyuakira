@@ -20,6 +20,8 @@ More projects, experiments, and discoveries to come.
 
 ---
 ### 📬 Connect with me
+- **Mail**:
 - **X**:
 - **TG**:
+  
 > **"In math we trust, in bytecode we verify."**
