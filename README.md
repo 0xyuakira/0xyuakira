@@ -20,7 +20,6 @@ More projects, experiments, and discoveries to come.
 
 ---
 ### 📬 Connect with me
-- **Mail**:
 - **X**:
 - **TG**:
   
