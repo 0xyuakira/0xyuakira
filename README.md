@@ -17,3 +17,6 @@ Deep-dive mathematical derivation and architectural deconstruction of top-tier D
 
 #### 🚀 [Future Explorations]
 More projects, experiments, and discoveries to come.
+
+---
+> **"In math we trust, in bytecode we verify."**
