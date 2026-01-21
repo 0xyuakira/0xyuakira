@@ -15,5 +15,5 @@ Offensive & defensive smart contract security lab with reproducible vulnerabilit
 #### 🔹 [DeFi-Protocol-Analysis](你的链接)
 Deep-dive mathematical derivation and architectural deconstruction of top-tier DeFi protocols.
 
-### 🚀 [Future Explorations]
+#### 🚀 [Future Explorations]
 More projects, experiments, and discoveries to come.
