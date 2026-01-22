@@ -9,7 +9,7 @@ PoC-driven analysis of Solidity-to-EVM internals and low-level execution semanti
 #### 🔹 [Gas-Optimizer-Kitchen](你的链接)
 A collection of practical gas-saving patterns and high-performance smart contract implementations.
 
-#### 🔹 [Security-Armory](你的链接)
+#### 🔹 [Security-Armory](https://github.com/0xyuakira/Security-Armory)
 Offensive & defensive smart contract security lab with reproducible vulnerabilities and exploit PoCs.
 
 #### 🔹 [DeFi-Protocol-Analysis](你的链接)
