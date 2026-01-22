@@ -12,7 +12,7 @@ A collection of practical gas-saving patterns and high-performance smart contrac
 #### 🔹 [Security-Armory](https://github.com/0xyuakira/Security-Armory)
 Offensive & defensive smart contract security lab with reproducible vulnerabilities and exploit PoCs.
 
-#### 🔹 [DeFi-Protocol-Analysis](你的链接)
+#### 🔹 [DeFi-Protocol-Analysis](https://github.com/0xyuakira/DeFi-Protocol-Analysis)
 Deep-dive mathematical derivation and architectural deconstruction of top-tier DeFi protocols.
 
 #### 🚀 [Future Explorations]
