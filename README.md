@@ -3,7 +3,7 @@
 
 ### 🏗️ Technical Ecosystem
 
-#### 🔹 [Solidity-EVM-Internals]
+#### 🔹 [Solidity-EVM-Internals](https://github.com/0xyuakira/Solidity-EVM-Internals)
 PoC-driven analysis of Solidity-to-EVM internals and low-level execution semantics.
 
 #### 🔹 [Gas-Optimizer-Kitchen](https://github.com/0xyuakira/Gas-Optimizer-Kitchen)
