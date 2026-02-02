@@ -21,6 +21,6 @@ More projects, experiments, and discoveries to come.
 ---
 ### 📬 Connect with me
 - **X**:
-- **TG**:
+- **TG**: yuakira_web3
   
 > **"In math we trust, in bytecode we verify."**
