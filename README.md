@@ -3,7 +3,7 @@
 
 ### 🏗️ Technical Stack
 
-####🔹 [zk-apt](https://https://github.com/0xyuakira/zk-apt)
+#### 🔹 [zk-apt](https://https://github.com/0xyuakira/zk-apt)
 A privacy-preserving transfer protocol with selective auditability, built with zero-knowledge proofs.
 
 #### 🔹 [Solidity-EVM-Internals](https://github.com/0xyuakira/Solidity-EVM-Internals)
