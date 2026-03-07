@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm Akira Yu!
-**Smart Contract / Blockchain Engineer | DeFi Protocol Analysis**
+**Blockchain Engineer | Smart Contracts & ZK Protocols & DeFi**
 
 ### 🏗️ Technical Ecosystem
 
