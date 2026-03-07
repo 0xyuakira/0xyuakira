@@ -3,6 +3,9 @@
 
 ### 🏗️ Technical Stack
 
+####🔹 [zk-apt](https://https://github.com/0xyuakira/zk-apt)
+A privacy-preserving transfer protocol with selective auditability, built with zero-knowledge proofs.
+
 #### 🔹 [Solidity-EVM-Internals](https://github.com/0xyuakira/Solidity-EVM-Internals)
 PoC-driven analysis of Solidity-to-EVM internals and low-level execution semantics.
 
@@ -15,8 +18,6 @@ Offensive & defensive smart contract security lab with reproducible vulnerabilit
 #### 🔹 [DeFi-Protocol-Analysis](https://github.com/0xyuakira/DeFi-Protocol-Analysis)
 Deep-dive mathematical derivation and architectural deconstruction of top-tier DeFi protocols.
 
-#### 🚀 [Future Explorations]
-More projects, experiments, and discoveries to come.
 
 ---
 ### 📬 Connect with me
