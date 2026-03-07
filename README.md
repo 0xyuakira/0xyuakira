@@ -1,7 +1,7 @@
-## Hi there 👋,I'm Akira Yu!
+## Hi there 👋 I'm Akira Yu!
 **Blockchain Engineer | Smart Contracts & ZK Protocols & DeFi**
 
-### 🏗️ Technical Ecosystem
+### 🏗️ Technical Stack
 
 #### 🔹 [Solidity-EVM-Internals](https://github.com/0xyuakira/Solidity-EVM-Internals)
 PoC-driven analysis of Solidity-to-EVM internals and low-level execution semantics.
