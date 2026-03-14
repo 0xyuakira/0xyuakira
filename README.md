@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Akira Yu!
 **Blockchain Engineer | Smart Contracts & ZK Protocols & DeFi**
 
-### 🏗️ Technical Stack
-
 #### 🔹 [zk-apt](https://https://github.com/0xyuakira/zk-apt)
 A privacy-preserving transfer protocol with selective auditability, built with zero-knowledge proofs.
 
