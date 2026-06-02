@@ -9,9 +9,3 @@ Deep-dive mathematical derivation and architectural deconstruction of top-tier D
 
 #### 🔹 [zk-apt](https://github.com/0xyuakira/zk-apt)
 A privacy-preserving transfer protocol with selective auditability, built with zero-knowledge proofs.
-
-
----
-### 📬 Connect with me
-- **X**: 
-- **TG**: @yuakira0
